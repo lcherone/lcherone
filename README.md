@@ -1,7 +1,6 @@
 Code 🐵 - 🍵 Addict
 
-Webshite: [cherone.co.uk](https://cherone.co.uk)
-
+Website: [cherone.co.uk](https://cherone.co.uk) -
 Keybase: [lcherone](https://keybase.io/lcherone)
 
 | <center>GitHub</center> | <center>StackOverflow</center> |
