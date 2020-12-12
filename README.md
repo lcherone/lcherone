@@ -1,9 +1,11 @@
 Code 🐵 - 🍵 Addict
 
+<strong>Gists:</strong> - [https://gist.github.com/lcherone](https://gist.github.com/lcherone)
+
 <strong>Website:</strong> [cherone.co.uk](https://cherone.co.uk) -
 <strong>Keybase:</strong> [lcherone](https://keybase.io/lcherone)
 
-[Buy me a coffee](https://paypal.me/lcherone)
+[Buy me a coffee 🍵](https://paypal.me/lcherone)
 
 <strong>StackOverflow:</strong>
 
