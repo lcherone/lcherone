@@ -10,7 +10,7 @@
 [lcherone](https://keybase.io/lcherone)
 
 **Buy me a coffee 🍵**
- - **PayPal**: [[lcherone](https://paypal.me/lcherone)](https://paypal.me/lcherone)
+ - **PayPal**: [https://paypal.me/lcherone](https://paypal.me/lcherone)
  - **BTC**: `bc1qguuk3l3d0tpjyutqrp2vfr26sql5yxxr36t7t6`
  - **ETH**: `0x95EA034455ab44722792954dB3376Bc56d51ABf5`
 
