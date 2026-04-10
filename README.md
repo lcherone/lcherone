@@ -11,8 +11,6 @@
 
 **Buy me a coffee 🍵**
  - **PayPal**: [https://paypal.me/lcherone](https://paypal.me/lcherone)
- - **BTC**: `bc1qguuk3l3d0tpjyutqrp2vfr26sql5yxxr36t7t6`
- - **ETH**: `0x95EA034455ab44722792954dB3376Bc56d51ABf5`
 
 **StackOverflow:**  
 [![My Stackoverflow](https://stackexchange.com/users/flair/335034.png?theme=clean)](https://stackoverflow.com/users/661872/lawrence-cherone)
